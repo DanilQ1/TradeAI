@@ -1,1 +1,1 @@
-# TradeAI
+# shevtrade
